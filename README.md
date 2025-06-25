@@ -1,5 +1,3 @@
-# Crypto-Analysis
-📊 Live Crypto Data in Excel This project automatically fetches and updates the top 50 cryptocurrency prices in an Excel sheet every 5 minutes! Built using Python, Pandas, and OpenPyXL, it analyzes: ✔️ Top 5 cryptocurrencies by market cap. ✔️ Price trends &amp; 24-hour changes. ✔️ Live data tracking for easy monitoring.
 # 📊 Live Cryptocurrency Price Tracker in Excel
 
 A Python-based automation project that **fetches live cryptocurrency data** from an online API and updates an **Excel sheet every 5 minutes**. This project is ideal for crypto enthusiasts, data analysts, and developers who want **automated real-time monitoring** without the need for a web interface.
